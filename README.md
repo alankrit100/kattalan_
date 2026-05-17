@@ -465,24 +465,11 @@ The goal is getting real users to trust the product.
 
 ---
 
-# Can This Document Be Used As AI Agent Context?
-
-YES.
-
 This document is intentionally structured as:
 
 - product blueprint
 - engineering roadmap
 - architecture guide
 - implementation contract
-
-Suggested structure:
-
-```text
-/docs/SITEGUARD_BLUEPRINT.md
-README.md
-SYSTEM_ARCHITECTURE.md
-SECURITY_RULES.md
-```
 
 AI agents like Claude Code, Cursor, OpenClaude, or GPT-based coding agents can use this as high-context product understanding for implementation.
