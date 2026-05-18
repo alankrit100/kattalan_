@@ -1,4 +1,4 @@
-# SITEGUARD
+# Kattalan_
 # Thin Production MVP Engineering Blueprint
 ### Version 1.2 · Solo-Founder Optimized · Launch-First Architecture
 
